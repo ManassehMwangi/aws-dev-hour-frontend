@@ -1,0 +1,15 @@
+{
+  "api": {
+    "invokeUrl": "https://1mnbg9t473.execute-api.us-east-2.amazonaws.com/prod/"
+  },
+  "cognito": {
+    "REGION": "us-east-2",
+    "USER_POOL_ID": "us-east-2_DpitLzODp",
+    "APP_CLIENT_ID": "6bc6l188sqollddqbqr0kg0826",
+    "IDENTITY_POOL_ID": "us-east-2:d83c3dc4-7947-403c-b5f5-ced881e41f14"
+  },
+  "s3": {
+    "bucket": "devhrawsstack-cdkreknimgagebucketabe44d40-zuuc1p41wm7v",
+    "thumbBucket": "devhrawsstack-cdkreknimgagebucketresized9d46e299-wj380wm3jpjh"
+  }
+}
